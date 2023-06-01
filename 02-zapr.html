@@ -17,7 +17,31 @@
 <body>
     <p><a href="index.html">Go back</a></p>
     <div class="fon">
-        <img src="/img/rose.jpg" alt="">
+        <picture>
+            <source
+               media="(min-width:1200px)"
+               srcset="
+                ./img/rose.jpg
+               "
+             />
+             <source
+               media="(min-width:768px)"
+               srcset="
+                 ./img/rose-sr.jpg,
+                 
+               "
+             />
+             <source
+               media="(min-width:320px)"
+               srcset="
+                ./img/rose-min.jpg
+               "
+             />
+             <img src="./img/rose.jpg" alt="Чекаю" />
+           </picture>
+
+
+        <!-- <img src="/img/rose.jpg" alt=""> -->
         <h1 class="text">Чекаю тебе сьогодні о 19.00 в кафе "Усадьба"</h1>
     </div>
     <script
