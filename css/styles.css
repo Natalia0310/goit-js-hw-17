@@ -42,3 +42,15 @@
 .gallery__link:hover {
   cursor: zoom-in;
 }
+
+.title__top {
+  text-align: center;
+  
+  color: rebeccapurple;
+}
+
+.title__down {
+  text-align: center;
+  
+  color: rebeccapurple; 
+}
