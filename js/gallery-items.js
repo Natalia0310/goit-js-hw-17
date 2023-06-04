@@ -1,17 +1,17 @@
 export const galleryItems = [
   {
     preview:
-      './img/photo1685629119.png.png',
+      './img/photo1685629139.png.png',
     original:
-      './img/photo1685629119.jpeg',
-    // description: 'Hokkaido Flower',
+      './img/photo1685629139.jpeg',
+    // description: 'Lighthouse Coast Sea',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677__340.jpg',
+      './img/4.png',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677_1280.jpg',
-    // description: 'Container Haulage Freight',
+      './img/4.jpeg',
+    // description: 'Alpine Mountains',
   },
   {
     preview:
@@ -20,32 +20,34 @@ export const galleryItems = [
       './img/photo1685632643.jpeg',
     // description: 'Aerial Beach View',
   },
+ 
+  
   {
     preview:
-      'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619__340.jpg',
+      './img/3.png',
     original:
-      'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619_1280.jpg',
+      './img/3.jpeg',
     // description: 'Flower Blooms',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334__340.jpg',
+      './img/2.png',
     original:
-      'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334_1280.jpg',
-    // description: 'Alpine Mountains',
+      './img/2.jpeg',
+    // description: 'Container Haulage Freight',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571__340.jpg',
+      './img/1.png',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571_1280.jpg',
+      './img/1.jpeg',
     // description: 'Mountain Lake Sailing',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272__340.jpg',
+      './img/6.png',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272_1280.jpg',
+      './img/6.jpeg',
     // description: 'Alpine Spring Meadows',
   },
   {
@@ -57,9 +59,10 @@ export const galleryItems = [
   },
   {
     preview:
-      './img/photo1685629139.png.png',
+      './img/photo1685629119.png.png',
     original:
-      './img/photo1685629139.jpeg',
-    // description: 'Lighthouse Coast Sea',
+      './img/photo1685629119.jpeg',
+    // description: 'Hokkaido Flower',
   },
+ 
 ];
