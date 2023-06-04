@@ -55,13 +55,23 @@
   color: rebeccapurple; 
 }
 .kvad {
-  
   width: 500px;
-  height: 240px;
-  position: absolute;
-  left: 470px;
-  top: 400px;
+    height: 240px;
+    position: absolute;
+    left: 470px;
+    top: 400px;
+  @media screen and (min-width: 320px) {
+    width: 250px;
+    height: 120px;
+    position: absolute;
+    left: 135px;
+    top: 135px; 
+  }
+ 
 }
 .pismo {
   position: relative;
+}
+.cel {
+  font-size: 10px;
 }
