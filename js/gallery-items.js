@@ -29,13 +29,13 @@ export const galleryItems = [
       './img/3.jpeg',
     // description: 'Flower Blooms',
   },
-  {
-    preview:
-      './img/2.png',
-    original:
-      './img/2.jpeg',
-    // description: 'Container Haulage Freight',
-  },
+  // {
+  //   preview:
+  //     './img/2.png',
+  //   original:
+  //     './img/2.jpeg',
+  //   // description: 'Container Haulage Freight',
+  // },
   {
     preview:
       './img/1.png',
